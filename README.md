@@ -18,6 +18,7 @@ This project contains two Java-based systems for managing airline seat reservati
 - **Flight Search**: Allows users to search for flights based on cities.
 - **Seat Booking**: Enables users to book available seats on flights.
 - **Interactive GUI**: Built using Java Swing.
+- **Customizable**: Add more destinations and flights directly in the code.
 
 ## Technologies Used
 - Java (CLI and Swing for GUI)
@@ -29,3 +30,6 @@ This project contains two Java-based systems for managing airline seat reservati
 - Install **Java 8+** on your machine.
 - Use an IDE like IntelliJ IDEA, Eclipse, or run from the terminal.
 
+## How to Run
+1. Compile the program: `javac AirlineReservationSystem.java`
+2. Run the application: `java AirlineReservationSystem`
