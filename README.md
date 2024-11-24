@@ -29,11 +29,3 @@ This project contains two Java-based systems for managing airline seat reservati
 - Install **Java 8+** on your machine.
 - Use an IDE like IntelliJ IDEA, Eclipse, or run from the terminal.
 
-### File Structure
-```plaintext
-FlightBookingSystem/
-├── src/
-│   ├── AirlineReservationSystem.java    # Command-line seat reservation system
-│   ├── FlightBookingApp.java            # GUI-based flight booking system
-│   └── Flight.class                     # Class containing flight data
-"# AirlineReservationSystem_-Java-Project-" 
