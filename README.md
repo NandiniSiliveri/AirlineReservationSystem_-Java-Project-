@@ -30,6 +30,3 @@ This project contains two Java-based systems for managing airline seat reservati
 - Install **Java 8+** on your machine.
 - Use an IDE like IntelliJ IDEA, Eclipse, or run from the terminal.
 
-## How to Run
-1. Compile the program: `javac AirlineReservationSystem.java`
-2. Run the application: `java AirlineReservationSystem`
